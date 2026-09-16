@@ -1,80 +1,90 @@
-# Mi Gusto — WebApp Gastronómica
+<div align="center">
 
-> **Experiencia, visión y tecnología al servicio de la marca.**
+  <h1>🍕 Mi Gusto — WebApp Gastronómica Premium</h1>
+  <p><strong>Experiencia visual, innovación tecnológica y storytelling digital al servicio de la marca.</strong></p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Vite-6.3-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/GSAP-3.13-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+    <img src="https://img.shields.io/badge/Framer_Motion-12-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-4.1-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </p>
 
-## ✨ Descripción General y Filosofía Visual
-Plataforma cross-device para la gestión, visualización y promoción de productos, franquicias, sucursales y oportunidades laborales; diseñada desde cero para fascinar y convertir. Toda la arquitectura, animación y microinteracción fue planificada para transmitir modernidad, confianza y dinamismo.
-
----
-
-## 💡 Principios de Diseño & Experiencia de Usuario
-- **Animaciones sofisticadas:** Cada sección entra animada de forma heroica, con blur, escalado y scroll reveal para captar la atención.
-- **Glassmorphism moderno:** Los formularios y bloques clave lucen paneles glass con feedback visual y títulos con efectos de brillo.
-- **Microinteracciones celulares:** Menús sticky, tabbar responsivo, chips animados y cards click/hover atractivas.
-- **Navegación inspirada en apps nativas:** Cada ruta tiene su propio storytelling visual.
-- **Mobile-first real:** El diseño está pensado primero para el pulgar. Todo es accesible, táctil y readable.
-- **Sin pantallas de carga molestas:** ¡Acceso inmediato al contenido clave!
+</div>
 
 ---
 
+## ✨ Visión & Experiencia de Usuario
 
-## 🌟 Aspectos Técnicos e Innovadores
-- **React, TypeScript y Vite** para máximo rendimiento.
-- **Lazy Loading avanzado** (carga diferida de rutas y assets visuales).
-- **ScrollReveal, Framer Motion, model-viewer:** animaciones personalizadas y exclusivas de cards y secciones.
-- **Accesibilidad real:** roles, aria y contraste validados, navegación por teclado, mobile-first y focus states claros.
-- **Sin pantallas de carga generales:** Entrás directo a la experiencia.
-- **Formularios custom** para franquicias, proveedores, RRHH y contacto con validación instantánea y mensajes claros.
-- **Catálogo modularizado:** Productos, promociones y beneficios con separación de lógica/presentación.
-- **Flipbook digital:** Carta tipo revista con transición de hojas física.
-- **Soporte de productos 3D** para empanadas premium (model-viewer incluido).
-- **Consumo de APIs y serverless functions** seguro y optimizado.
-- **Estructura lista para Storybook, testing y escalabilidad**.
+Plataforma *cross-device* de vanguardia concebida para la gestión, visualización y promoción de productos, franquicias, sucursales y talento. Todo el desarrollo e interfaz combinan estética moderna con interacciones fluidas para ofrecer una experiencia memorable.
+
+### 🌟 Pilares Destacados
+
+- 🎨 **Glassmorphism & Diseño Premium:** Paneles traslúcidos con efectos de desenfoque, degradados armónicos y tipografía contemporánea.
+- ⚡ **Animaciones de Alto Rendimiento:** Scroll reveals, transiciones suaves e integraciones dinámicas mediante **GSAP** y **Framer Motion**.
+- 📐 **Mobile-First Real:** Arquitectura adaptativa orientada al uso táctil, con navegación fluida y rápida en cualquier dispositivo.
+- 🥟 **Experiencia 3D & Flipbook:** Visualización tridimensional interactiva de productos clave (`model-viewer`) y catálogo estilo revista digital (`react-pageflip`).
+- 📋 **Formularios Dinámicos:** Gestión eficiente para franquicias, proveedores, RRHH y contacto directo con validación inmediata.
 
 ---
 
-## 📱 Experiencia Mobile Destacada
-- Menú sticky y tabbar que flota en mobile.
-- Todo elemento táctil, con feedback al toque.
-- Formularios y CTA que explotan el viewport móvil.
-- Animaciones amigables y selectores touch.
-- Integración instantánea con WhatsApp y apps nativas.
+## 📸 Galería de Interfaz
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="./public/screenshots/Screenshot_1.png" alt="Captura 1" style="border-radius: 8px;"></td>
+      <td width="50%"><img src="./public/screenshots/Screenshot_2.png" alt="Captura 2" style="border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./public/screenshots/Screenshot_3.png" alt="Captura 3" style="border-radius: 8px;"></td>
+      <td width="50%"><img src="./public/screenshots/Screenshot_4.png" alt="Captura 4" style="border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./public/screenshots/Screenshot_5.png" alt="Captura 5" style="border-radius: 8px;"></td>
+      <td width="50%"><img src="./public/screenshots/Screenshot_6.png" alt="Captura 6" style="border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./public/screenshots/Screenshot_7.png" alt="Captura 7" style="border-radius: 8px;"></td>
+      <td width="50%"><img src="./public/screenshots/Screenshot_8.png" alt="Captura 8" style="border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./public/screenshots/Screenshot_9.png" alt="Captura 9" style="border-radius: 8px;"></td>
+      <td width="50%"><img src="./public/screenshots/Screenshot_10.png" alt="Captura 10" style="border-radius: 8px;"></td>
+    </tr>
+  </table>
+
+  <br />
+
+  <table width="100%">
+    <tr>
+      <td align="center"><img src="./public/screenshots/Screenshot_11.png" alt="Captura 11" style="border-radius: 8px; max-width: 100%;"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## Equipo de Desarrollo y Agradecimientos
+## 🛠️ Tecnologías y Librerías
 
-- [**Facundo Carrizo**](https://github.com/Facu14carrizo)
-- [**Ramiro Lacci**](https://github.com/ramirolacci)
-
-
-Especial agradecimiento a toda la organización Mi Gusto por su confianza y visión a largo plazo, y a todos los colaboradores que aportaron pasión, ideas disruptivas y feedback real de usuarios.
-
-> Mi Gusto Web es el resultado de la sinergia entre desarrollo profesional, diseño, usuarios y cultura digital gastronómica.
+- **Core:** React 19, TypeScript, Vite
+- **Estilos y UI:** Tailwind CSS, CSS Modules, Lucide Icons, FontAwesome, Bootstrap
+- **Animaciones & 3D:** GSAP, Framer Motion, ScrollReveal, Model-Viewer
+- **Interacciones & Multimedia:** React PageFlip, Swiper, SweetAlert2, React Medium Image Zoom
+- **Integraciones:** EmailJS, Mailchimp, Nodemailer
 
 ---
 
-## Tecnologías y librerías clave
+## 👥 Equipo y Agradecimientos
 
-- React 18+, TypeScript, Vite, CSS animado y modular
-- Framer Motion, ScrollReveal (animaciones de entrada, hover y aparición)
-- SweetAlert2 (UX alerts), EmailJS (contacto serverless)
-- React Router, Context API, Model-Viewer
-- Testing y estructura lista para CI/CD, Storybook, i18n
+- [**Facundo Carrizo**](https://github.com/Facu14carrizo) — *Desarrollo & Arquitectura*
+- [**Ramiro Lacci**](https://github.com/ramirolacci) — *Desarrollo & Arquitectura*
+- [**Joaquín Tonizzo**](https://github.com/JoaquinTonizzo) — *Colaborador*
 
----
+> *Un agradecimiento especial a toda la organización Mi Gusto por su confianza y visión a futuro.*
 
-## Buenas Prácticas
-- Modularidad, componentes y hooks claros
-- Lógica y presentación separados (y CSS modular)
-- Accesibilidad y UX a nivel marca internacional
-- Documentación/Onboarding en español y amigable para opensource
-
----
-
-## Colaboraciones
-- [**Joaquín Tonizzo**](https://github.com/JoaquinTonizzo)
-
-© Equipo de Sistemas — Mi Gusto 2023-2024
+<div align="center">
+  <sub>© Equipo de Sistemas — Mi Gusto</sub>
+</div>
